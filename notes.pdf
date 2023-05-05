@@ -1,0 +1,102 @@
+what is mern stack:
+virtual dom mtlb ki tume kisi cheez pai click kara to page 
+bina refresh huhe vo cheez open hogyi,how kuki vo page prerender hochuka memory mai,
+nodejs:web server connects frontend to backend,managing apis,npm contains oackage that are built using nodejs and javascript.
+expressjs:when ever frontend reqeuests something from the backend api plays vital it carry taht informatino to forntend
+mongodb:web server ko databses se connect kara ja mongoose ki madath se
+work flow for chat app:
+
+react application thi usne kah muje meri chat do databse se to api vo requst leke jari thi using express aur phir server kai paas paochgi
+then nodejs as a server databse kai sath connectivity kari using mongoose aur eequest kara mongodb la be bhai ki chat
+to tab apke pas chat ajagi
+
+POSTMAN:postman provides the platform for testing our backend apis
+http is designed to enable communcatinoin between cients and server
+http work as request-response protocol beteen client and server
+whenever client(broser) sends an http request to the server then server returns a response to the client
+http methods:
+get,post,put,delete etc..
+get is used to request data from the specified source
+post method is used to send data to a server 
+
+
+
+chakra ui:it is similar to material ui or bootstrap
+it is a basically component libaray it allows us to build the application 
+fastly,
+inside the index.js file we have to wrap everyting inside it
+
+
+whenever we request api call from frontend to backend
+browser gives us CORS error so to avoid it,we have to
+provide proxy to our code
+our frontend:3000,backend:5000,so we want to have 
+same origin if,wnat to access api from fontend to backend
+
+to achiehve the mutliple pages rendering we user react router dom
+
+to use rreactrouter dom we have to wrap our whole insid
+broser router:it is a  parent component used to store all the components
+
+route mai to hum url mention kare ki agr ye url aye to is page pai ka 
+data render hoja
+
+ReatRouter:Jaise c++ mai swithc hove vaise yaha reactrouter,to user ne 
+koi url dala brwoser pai to us url kai liye jo sabse sahi paht hoga 
+vo reouter mai se select hoga 
+aur path ka data user ko show hojaIn the application, React Router 
+is utilized to define various routes. 
+When a user enters a URL into your browser and the URL route equals
+one of several 'pathways' as in the router folder, the user is sent to that route.
+
+first api call to render data from frontend to backend
+
+why we need axios?
+axois it is a libray which allows us to make requests to an api,
+return data from the api and then do things with that data in our 
+react application
+
+mongoose is used to connect to our mongodb database
+and make query to our database
+
+
+router is used to create a single page web apps,in the application router is 
+utilised to define various routes,when a user enters a url into your
+browser and the url route equals one of several pathways as int the route folder ,the usdr
+is sent to that route
+
+
+jwt authentication
+jwt helps us to authorise the user in backend
+for exampple there is user login to the website and try to 
+access the resoures which is not avaible to him like make any user admin
+so with the help of jwt we does not allow any one to use any resoures
+only the person which are allow to use the resource are allowed to use that this 
+possible only with the help of jwt  but how
+user will send a jwt to backend and backend is this is the user that have access to use
+that resource
+
+
+22:20 pai jao middleware smjne kai liye
+
+cloudinary:it is an end-to-end image and video management solution for websites and mobile apps 
+covering everything from image and video uploads ,storage manipulations,
+optimzations to delivery.
+
+
+useHook ki madath se aap particular page naivgate ho sako
+benefits of local storage:
+The data is stored using key-value pairs.
+The data stored does not expire.
+It holds information on the client side.
+Data is not automatically deleted unless Javascript code is used.
+Even after the browser is closed, it still keeps the data.
+
+creating api for chatting,or searching a usr.
+creating api for naming a group or remove someone from the group
+
+contextapi 
+contextapi helps us to manage the state of our app,
+it helps us put the state at the top so that we can 
+fetch the state directly from one single place it,creates one single source
+of truth for our state .
