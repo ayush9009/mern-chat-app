@@ -16,21 +16,17 @@ or just looking for a way to stay connected, this mern-chat-application has ever
 ![Screenshot (217)](https://user-images.githubusercontent.com/97290036/236368127-4425db04-bac0-4a99-be76-05efc636a17b.png)
 
 
-![Screenshot (281)](https://github.com/ayush9009/mern-chat-app/assets/97290036/99a73a14-c680-43fd-91e7-c63f55ca841e)
-
-
-![Screenshot (282)](https://github.com/ayush9009/mern-chat-app/assets/97290036/99a73a14-c680-43fd-91e7-c63f55ca841e)
-
-
-![Screenshot (283)](https://github.com/ayush9009/mern-chat-app/assets/97290036/99a73a14-c680-43fd-91e7-c63f55ca841e)
-
-
-![Screenshot (284)](https://github.com/ayush9009/mern-chat-app/assets/97290036/99a73a14-c680-43fd-91e7-c63f55ca841e)
-
-
-![Screenshot (285)](https://github.com/ayush9009/mern-chat-app/assets/97290036/99a73a14-c680-43fd-91e7-c63f55ca841e)
+![Screenshot (280)](https://github.com/ayush9009/mern-chat-app/assets/97290036/e94984e5-1adc-443e-9e36-eff43621142b)
 
 
 ![Screenshot (281)](https://github.com/ayush9009/mern-chat-app/assets/97290036/99a73a14-c680-43fd-91e7-c63f55ca841e)
 
+![Screenshot (282)](https://github.com/ayush9009/mern-chat-app/assets/97290036/e0423791-39c4-45cf-b08a-39ef1daed0a9)
 
+![Screenshot (283)](https://github.com/ayush9009/mern-chat-app/assets/97290036/f951db28-769e-476f-85d6-5f505f907f36)
+
+
+![Screenshot (284)](https://github.com/ayush9009/mern-chat-app/assets/97290036/fbbc41bb-2993-4748-a060-f7752eec0e43)
+
+
+![Screenshot (285)](https://github.com/ayush9009/mern-chat-app/assets/97290036/c9f6c1cb-7a18-4c66-8ce0-e9386eb2f2b7)
