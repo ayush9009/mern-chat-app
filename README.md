@@ -9,9 +9,28 @@ The application boasts a beautiful, modern UI that makes it easy and intuitive t
 or just looking for a way to stay connected, this mern-chat-application has everything you need to chat in real-time with the people who matter most to you.
 
 
-
 ![Screenshot (216)](https://user-images.githubusercontent.com/97290036/236368151-5bdb8058-57bc-4fae-ba7e-314136371edc.png)
 
 
 
 ![Screenshot (217)](https://user-images.githubusercontent.com/97290036/236368127-4425db04-bac0-4a99-be76-05efc636a17b.png)
+
+
+![Screenshot (281)](https://github.com/ayush9009/mern-chat-app/assets/97290036/99a73a14-c680-43fd-91e7-c63f55ca841e)
+
+
+![Screenshot (282)](https://github.com/ayush9009/mern-chat-app/assets/97290036/99a73a14-c680-43fd-91e7-c63f55ca841e)
+
+
+![Screenshot (283)](https://github.com/ayush9009/mern-chat-app/assets/97290036/99a73a14-c680-43fd-91e7-c63f55ca841e)
+
+
+![Screenshot (284)](https://github.com/ayush9009/mern-chat-app/assets/97290036/99a73a14-c680-43fd-91e7-c63f55ca841e)
+
+
+![Screenshot (285)](https://github.com/ayush9009/mern-chat-app/assets/97290036/99a73a14-c680-43fd-91e7-c63f55ca841e)
+
+
+![Screenshot (281)](https://github.com/ayush9009/mern-chat-app/assets/97290036/99a73a14-c680-43fd-91e7-c63f55ca841e)
+
+
