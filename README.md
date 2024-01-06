@@ -1,4 +1,35 @@
 # mern-chat-app
+
+
+https://github.com/ayush9009/mern-chat-app/assets/97290036/c9924bd2-6c6d-4b2c-97d1-a2a15d7e43db
+
+
+
+#Client : ReactJS
+#Server : NodeJS ,ExpressJS
+#Database: MongoDB
+
+Run Locally :
+#Clone the project
+git clone https://github.com/ayush9009/mern-chat-app
+
+#Go to the project directory
+cd mern-chat-app
+
+#Install dependencies
+npm install
+
+#cd frontend/
+npm install
+
+#start the server
+npm run start
+
+#start the client
+  //open now terminal
+  cd frontend
+  npm start
+
 Introducing the mern-chat-application:  A real-time chat platform built with the MERN (MongoDB, Express, React, and Node.js) stack.
 With this application, you can chat with your friends one-on-one or in a group, and even create your own groups to chat with multiple friends at once.
 
@@ -27,7 +58,7 @@ or just looking for a way to stay connected, this mern-chat-application has ever
 ![Screenshot (285)](https://github.com/ayush9009/mern-chat-app/assets/97290036/c9f6c1cb-7a18-4c66-8ce0-e9386eb2f2b7)
 
 
-https://github.com/ayush9009/mern-chat-app/assets/97290036/c9924bd2-6c6d-4b2c-97d1-a2a15d7e43db
+
 
 
 
