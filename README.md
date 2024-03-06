@@ -30,7 +30,7 @@ npm run start
   cd frontend
   npm start
 
-Introducing the mern-chat-application:  A real-time chat platform built with the MERN (MongoDB, Express, React, and Node.js) stack.
+Introducing the mern-chat-application -  A real-time chat platform built with the MERN (MongoDB, Express, React, and Node.js) stack.
 With this application, you can chat with your friends one-on-one or in a group, and even create your own groups to chat with multiple friends at once.
 
 The mern-chat-application also features a search functionality, allowing you to easily find and chat with any of your friends from your list.
