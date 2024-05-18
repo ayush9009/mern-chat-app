@@ -1,13 +1,14 @@
-# mern-chat-app
+# chat-app
 
 
 https://github.com/ayush9009/mern-chat-app/assets/97290036/c9924bd2-6c6d-4b2c-97d1-a2a15d7e43db
 
 
 
-#Client : ReactJS
-#Server : NodeJS ,ExpressJS
-#Database: MongoDB
+#Frontend : ReactJS
+#Server   : NodeJS 
+#APIs     : ExpressJS
+#Database : MongoDB
 
 Run Locally :
 #Clone the project
